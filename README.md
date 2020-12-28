@@ -5,7 +5,7 @@
 <p align="center">
    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- 
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
@@ -26,7 +26,7 @@
 <p align="center">
    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  
 </p>
 
 <p align="center">
