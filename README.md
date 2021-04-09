@@ -22,7 +22,7 @@
    <img width="50" src="https://discord.js.org/static/icons/favicon-32x32.png">
 </p>
 
-<p align="center"><b>I am a complete beginner at:</p>
+<p align="center"><b>I am a complete beginner at :</p>
 <p align="center">
    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
