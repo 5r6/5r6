@@ -6,7 +6,7 @@
 - **Cyber Security**
 - **Linux**
 - **Social Engineering**
-- **Social Engineering**
+- **Network Security**
 <br>
   
   
