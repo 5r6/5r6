@@ -3,12 +3,10 @@
 
 ## Security
 
-<li>Cyber Security<li/>
-        <li>Linux<li/>
-            <li>Social Engineering<li/>
-                <li>Social Engineering<li/>
-
-  
+- **Cyber Security**
+- **Linux**
+- **Social Engineering**
+- **Social Engineering**
 <br>
   
   
